@@ -57,7 +57,7 @@ Dziś tworzę rozwiązania oparte na sztucznej inteligencji i własne workflowy 
 Jestem otwarty na współpracę przy projektach, gdzie dane naprawdę wspierają decyzje,  
 a technologia rozwiązuje konkretne problemy.
 
-📫 [Napisz do mnie na LinkedIn] (https://linkedin.com/in/leszek-rutkowski)
+📫 [Napisz do mnie na LinkedIn](https://linkedin.com/in/leszek-rutkowski)
 ⭐ Lub zaobserwuj to repo, jeśli chcesz śledzić nowe projekty
 
 ---
