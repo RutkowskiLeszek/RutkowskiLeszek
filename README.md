@@ -1,7 +1,4 @@
 <!-- Baner / nagłówek -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/banner.png" alt="Baner z hasłem: Myślę strategicznie, pytam analitycznie, działam skutecznie" />
-</p>
 
 <h1 align="center">Cześć! Tu Leszek Rutkowski 👋</h1>
 
