@@ -37,7 +37,7 @@ Zgodnie z zasadą **GIGO (Garbage In, Garbage Out)** – tylko dobre dane prowad
 
 | Projekt | Opis | Technologie |
 |--------|------|-------------|
-| 🧠 **AI-Wyszukiwarka wiedzy firmowej** | Workflow oparty na LLM + RAG do wyszukiwania dokumentów | Python, OpenAI API, Pydantic |
+| 🧠 **AI-Wyszukiwarka wiedzy firmowej** | Workflow oparty na LLM + RAG do wyszukiwania dokumentów | OpenAI API, Python, walidacja danych (Pydantic, Instructor), integracja promptów, usprawnianie dostępu do wiedzy |
 | 📊 **Dashboard sprzedażowy Power BI** | Interaktywne KPI wg handlowców, produktów i eksportu | Power BI, DAX |
 | 📬 **Mailing Automation (VBA)** | Automatyzacja kampanii mailingowych | VBA, Excel |
 | 📈 **Analiza marż i kosztów** | Dane wspierające ograniczenie wydatków o kilkanaście procent | Python, statystyka |
