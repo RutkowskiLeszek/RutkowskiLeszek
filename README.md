@@ -13,6 +13,10 @@
 Zaczynałem od analizy danych produkcyjnych i automatyzacji procesów w Excelu.  
 Dziś tworzę rozwiązania oparte na sztucznej inteligencji i własne workflowy z LLM, dbając o jakość danych i realny wpływ na biznes.
 
+💡 **W co wierzę:**  
+Dane powinny prowadzić do **konkretnych usprawnień**. Dlatego stawiam na jakość – zarówno danych, jak i procesu ich przetwarzania.  
+Zgodnie z zasadą **GIGO (Garbage In, Garbage Out)** – tylko dobre dane prowadzą do dobrych decyzji.
+
 🔍 Stawiam na praktyczność, zrozumiałe wyniki i rozwiązania, które działają.
 
 ---
